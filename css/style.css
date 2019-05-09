@@ -1,0 +1,42 @@
+.container {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin: auto;
+	text-align: center;
+}
+
+.form-group {
+	padding: 10px 0px;
+}
+
+input[type="file"] {
+	border: 1px solid #222;
+	padding: 10px 0px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.error {
+	width: 300px;
+	display: block;
+	padding: 10px 10px;
+	background: red;
+	color: white;
+	text-align: center;
+}
+.success {
+	background: springgreen;
+	color: #fff;
+	display: block;
+	padding: 10px 0px;
+	text-align: center;
+}
+
+.img-res {
+	width: 20%;
+	height: 200px;
+	
+	-webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+	margin: 10px 10px;
+}
